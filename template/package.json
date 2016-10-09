@@ -1,8 +1,9 @@
 {
-  "name": "template",
+  "name": "<%= name %>",
+  "description": "<%= description %>",
+  "author": "<%= author %>",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Albee <1138577462@qq.com>",
+  "main": "pathToMain",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

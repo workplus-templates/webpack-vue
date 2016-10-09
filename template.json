@@ -1,7 +1,7 @@
 {
-    "name": "webpack-vue",
-    "description": "Webpack VueJs template",
-    "author": "Albee <1138577462@qq.com>",
-    "bash": ["npm install", "npm run dev"],
-    "readme": "https://github.com/workplus-template/webpack-vue#readme"
+  "name": "webpack-vue",
+  "description": "Webpack VueJs template",
+  "author": "Albee <1138577462@qq.com>",
+  "bash": ["npm install", "npm run dev"],
+  "readme": "https://github.com/workplus-template/webpack-vue#readme"
 }
