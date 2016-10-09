@@ -1,2 +1,2 @@
 # webpack-vue
-Webpack VueJs template. 
+A Webpack VueJs project use for creating prototype demo rapidly.
